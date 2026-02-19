@@ -1,0 +1,14 @@
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\bin\Debug\net8.0\PuliziaRAM.exe
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\bin\Debug\net8.0\PuliziaRAM.deps.json
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\bin\Debug\net8.0\PuliziaRAM.runtimeconfig.json
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\bin\Debug\net8.0\PuliziaRAM.dll
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\bin\Debug\net8.0\PuliziaRAM.pdb
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\obj\Debug\net8.0\PuliziaRAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\obj\Debug\net8.0\PuliziaRAM.AssemblyInfoInputs.cache
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\obj\Debug\net8.0\PuliziaRAM.AssemblyInfo.cs
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\obj\Debug\net8.0\PuliziaRAM.csproj.CoreCompileInputs.cache
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\obj\Debug\net8.0\PuliziaRAM.dll
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\obj\Debug\net8.0\refint\PuliziaRAM.dll
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\obj\Debug\net8.0\PuliziaRAM.pdb
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\obj\Debug\net8.0\PuliziaRAM.genruntimeconfig.cache
+C:\Users\ubbon\Desktop\PuliziaRAM\PuliziaRAM\obj\Debug\net8.0\ref\PuliziaRAM.dll
